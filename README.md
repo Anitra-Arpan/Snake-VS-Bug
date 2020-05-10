@@ -1,2 +1,2 @@
-# Snake-VS-Bug
-A recreation of the original Snake and Apple game
+# p5.play-boilerplate
+Boiler plate for p5.play
